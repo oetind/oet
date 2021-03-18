@@ -19,7 +19,7 @@ Contributions are welcome! Here's how you can help:
 
 ## Code
 
-For small fixes or incremental improvements simply fork the repo and follow the process below. For larger changes submit an [RFC:](RFC.md)
+For small fixes or incremental improvements simply fork the repo and follow the process below. 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository and [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
 2. Start coding!
