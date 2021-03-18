@@ -8,13 +8,14 @@
 
 Contributions are welcome! Here's how you can help:
 
-
+- [project persentation](#Persentation)
 - [Contributing code](#code)
 - [Reporting issues](#issues)
 
 
 
-
+## Persentation 
+ open [OET.pdf](https://github.com/oetind/oet/files/6166315/OET.pdf) this pdf.
 
 
 ## Code
