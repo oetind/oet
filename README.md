@@ -15,7 +15,7 @@ Contributions are welcome! Here's how you can help:
 
 
 ## Persentation 
- open [OET.pdf](https://github.com/oetind/oet/files/6166315/OET.pdf).
+ open [OET.pdf](https://github.com/oetind/oet/files/6166315/OET.pdf). and also check this [](url)https://www.youtube.com/watch?v=nAAJaR1aZQY for better understanding. 
 
 
 ## Code
