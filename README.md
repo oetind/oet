@@ -8,14 +8,14 @@
 
 Contributions are welcome! Here's how you can help:
 
-- [Translating](#translations)
+
 - [Contributing code](#code)
 - [Reporting issues](#issues)
-- [Donating](#donations)
+
 
 ## Translations
 
-See [translation instructions](https://github.com/flameshot-org/translation-instruction).
+
 
 ## Code
 
