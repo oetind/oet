@@ -43,13 +43,9 @@ For small fixes or incremental improvements simply fork the repo and follow the 
 2. [Open an issue](https://github.com/flameshot-org/flameshot/issues/new) and describe the issue you are having - you could include:
      - Screenshots
      - Ways to reproduce the issue.
-     - Your Flameshot version.
+     - its version.
      - Your platform (e.g. Windows 10 or Ubuntu 15.04 x64)
 
 After reporting you should aim to answer questions or clarifications as this helps pinpoint the cause of the issue.
 
-### Donations
-
-I improve Flameshot in my free time because I want to create something good for everyone to use.
-If you want you can donate some bucks [here](https://www.paypal.me/lupoDharkael).
 
