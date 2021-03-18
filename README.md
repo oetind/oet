@@ -13,7 +13,7 @@ Contributions are welcome! Here's how you can help:
 - [Reporting issues](#issues)
 
 
-## Translations
+
 
 
 
